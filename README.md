@@ -15,8 +15,4 @@
 - ☀️ 스타일도 추천해주는 날씨 앱 - [HowsTheWear](https://github.com/UMC-HowsTheWear/HowsTheWear-iOS)
 
 ### Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:gpatration77@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
+- 📮 gpatration77@gmail.com
