@@ -15,4 +15,5 @@
 - ☀️ 스타일도 추천해주는 날씨 앱 - [HowsTheWear](https://github.com/UMC-HowsTheWear/HowsTheWear-iOS)
 
 ### Contact
-- 📮 gpatration77@gmail.com
+- 📮 mail:  gpatration77@gmail.com
+- ✏️ blog: https://whatisyourtil.tistory.com
