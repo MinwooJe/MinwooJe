@@ -13,7 +13,7 @@
 ### Project
 - ❤️ 커플들을 위한 커뮤니티 - [HeartHuB](https://github.com/UMC-HeartHub/HeartHub-iOS)
 - ☀️ 스타일도 추천해주는 날씨 앱 - [HowsTheWear](https://github.com/UMC-HowsTheWear/HowsTheWear-iOS)
-- 🪞 23년도 2학기 캡스톤디자인 프로젝트: 나를 위한 위로의 시간 [DearMe]
+- 🪞 23년도 2학기 캡스톤디자인 프로젝트: 나를 위한 위로의 시간 [DearMe](https://github.com/MinwooJe/DearMe)
 
 ### Contact
 - 📮 mail:  gpatration77@gmail.com
