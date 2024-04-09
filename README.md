@@ -17,4 +17,4 @@
 
 ### Contact
 - 📮 mail:  gpatration77@gmail.com
-- ✏️ blog: https://whatisyourtil.tistory.com
+- ✏️ blog: https://velog.io/@gration77/posts
