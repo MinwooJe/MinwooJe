@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white" />
 
 ### Project
-- ❤️ 커플들을 위한 커뮤니티 - [HeartHuB](https://github.com/UMC-HeartHub/HeartHub-iOS)
+- ❤️ 커플들을 위한 커뮤니티 - [HeartHuB](https://github.com/MinwooJe/HeartHub-iOS)
 - ☀️ 스타일도 추천해주는 날씨 앱 - [HowsTheWear](https://github.com/UMC-HowsTheWear/HowsTheWear-iOS)
 
 ### Contact
