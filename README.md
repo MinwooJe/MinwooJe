@@ -12,8 +12,9 @@
 
 ### Project
 - 🍿 당신을 위한 팝업스토어 - [Popcorn](https://github.com/GDSC-Popcorn/Popcorn-iOS)
-- ❤️ 커플들을 위한 커뮤니티 - [HeartHuB](https://github.com/MinwooJe/HeartHub-iOS)
-- ☀️ 스타일도 추천해주는 날씨 앱 - [HowsTheWear](https://github.com/UMC-HowsTheWear/HowsTheWear-iOS)
+
+### Education
+- 네이버 부스트캠프 10기 iOS (2025.06 - 2026.02)
 
 ### Contact
 - 📮 mail:  gpatration77@gmail.com
